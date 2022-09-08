@@ -1,2 +1,3 @@
 # LesFousDesTours.github.io
-Website of CurieOsity
+
+Repository du site web de l'association Les Fous des Tours
