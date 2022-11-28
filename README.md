@@ -2,4 +2,4 @@
 
 Repository du site web de l'association Les Fous des Tours
 
-![https://lesfousdestours.github.io](lesfousdestours.github.io)
+![lesfousdestours.github.io](https://lesfousdestours.github.io)
